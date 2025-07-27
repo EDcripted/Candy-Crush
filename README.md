@@ -1,6 +1,8 @@
 🍬 ED's Candy Crush
 A fun and interactive Candy Crush-style game built using HTML, CSS, and JavaScript. Match candies by dragging them to create combos of 3 in a row to score points!
 
+Live Link: https://edcripted.github.io/Candy-Crush/
+
 🎮 Gameplay
 Grid: 9x9 board filled with colorful candies.
 
